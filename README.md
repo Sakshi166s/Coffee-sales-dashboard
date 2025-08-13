@@ -7,6 +7,7 @@
   Evaluate Product Performance: Determine which products and categories drive the most revenue.Interactive Insights: Create an interactive dashboard that allows stakeholders to explore the data without the risk of unintentional edits.
 
 # key Insights - 
+    
     Total Sale is $37,509 and Total Quantity sold is 1133.
     Latte Coffee gave the highest revenue.
     In May month , quantity sold the most.
