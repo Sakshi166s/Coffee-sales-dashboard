@@ -1,10 +1,10 @@
 # Coffee-sales-dashboard
 
 # Project overview - 
-     This project delves into the sales data of  Coffee Shop to uncover valuable insights and trends. Using Excel, we meticulously cleaned, analyzed, and visualized the data to help understand the business's performance across various dimensions. 
+ This project delves into the sales data of  Coffee Shop to uncover valuable insights and trends. Using Excel, we meticulously cleaned, analyzed, and visualized the data to help understand the business's performance across various dimensions. 
 
 # Objectives - 
-    Evaluate Product Performance: Determine which products and categories drive the most revenue.Interactive Insights: Create an interactive dashboard that allows stakeholders to explore the data without the risk of unintentional edits.
+  Evaluate Product Performance: Determine which products and categories drive the most revenue.Interactive Insights: Create an interactive dashboard that allows stakeholders to explore the data without the risk of unintentional edits.
 
 
 
